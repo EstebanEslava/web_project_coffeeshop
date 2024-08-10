@@ -113,27 +113,23 @@ width: 100%;
 position: relative;
 }
 
-.footer__content_hours{
+.header__footer_hours{
   margin: 0px;
   display: flex;
   justify-content: space-between;
 
 }
 
-.footer__list{
+.header__footer-list{
   margin-left: 80px;
   margin-bottom: 40px;
   padding-left: 0;
-
-}
-
-.footer__list-item{
-  list-style-type: none;
   font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
   color: #838383;
+
 }
 
 .header__paragraph{
