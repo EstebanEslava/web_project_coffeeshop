@@ -11,11 +11,11 @@
 .footer__content {
   display: flex;
   flex-wrap: wrap;
+  justify-content:space-between;
   width: 100%;
 }
 
 .footer__social {
-  margin-left: auto;
   display: flex;
   flex-direction: column;
 }
@@ -27,7 +27,7 @@
   z-index: 3;
 }
 
-.footer__circle{
+.footer__circle   {
   width: 340px;
   height: 340px;
   color: #2F80ED;
@@ -36,6 +36,7 @@
   top: -128px;
   left: -44px;
   z-index: 2;
+
 }
 
 .footer__social-heading {
