@@ -40,7 +40,7 @@
   line-height: 30px;
 }
 
-.span-accent {
+.header__span-accent {
   font-family: "Noto serif", "Times New Roman", serif;
   font-style: italic;
   font-size: 58px;
@@ -88,7 +88,7 @@
   color: #838383;
 }
 
-.paragraph {
+.header__paragraph-direction {
   margin-top: auto;
   margin-bottom: 40px;
   margin-right: 80px;
